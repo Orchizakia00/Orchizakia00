@@ -16,9 +16,9 @@
   </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Orchizakia00&theme=tokyonight)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Orchizakia00&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Orchizakia00&theme=default)
 
 - 🔭 I’m currently looking for work
 - 🌱 I’m currently learning Next.js
