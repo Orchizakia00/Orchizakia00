@@ -9,6 +9,12 @@
 ![GitHub Streak](https://api.githubtrends.io/user/svg/Orchizakia00/repos?time_range=one_year&theme=synthwaves)
 </div>
 
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=js,tailwind,react,mongodb,express,node,html,css," />
+  </a>
+</p>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
