@@ -9,14 +9,19 @@
 ![GitHub Streak](https://api.githubtrends.io/user/svg/Orchizakia00/repos?time_range=one_year&theme=synthwaves)
 </div>
 
+<h2 align="center">Top Skills</h2>
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=js,tailwind,react,mongodb,express,node,html,css," />
   </a>
 </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Orchizakia00&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Orchizakia00&theme=tokyonight)
+
+- 🔭 I’m currently looking for work
+- 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
