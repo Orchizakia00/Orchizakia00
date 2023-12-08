@@ -2,7 +2,12 @@
 
 [![The San Juan Mountains are beautiful!](/assets/git-banner.png "San Juan Mountains")](https://www.linkedin.com/in/zakia-tanzim-orchi-a2263a290/)
 
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Orchizakia00%20&theme=tokyonight-duo&hide_border=true&border_radius=6)](https://git.io/streak-stats)
+
+![GitHub Streak](https://api.githubtrends.io/user/svg/Orchizakia00/repos?time_range=one_year&theme=synthwaves)
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
