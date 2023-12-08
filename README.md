@@ -12,7 +12,7 @@
 <h2 align="center">Top Skills</h2>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=js,tailwind,react,mongodb,express,node,html,css," />
+    <img src="https://skillicons.dev/icons?i=js,tailwind,react,mongodb,express,firebase,html,css," />
   </a>
 </p>
 
