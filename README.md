@@ -16,16 +16,14 @@
   </a>
 </p>
 
+<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Orchizakia00&theme=tokyonight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Orchizakia00&theme=default)
+</div>
 
 - 🔭 I’m currently looking for work
-- 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently exploring Next.js
+- 📫 How to reach me: zakiaislam290@gmail.com
 
