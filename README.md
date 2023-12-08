@@ -17,11 +17,14 @@
 </p>
 
 <div align="center">
+<div style="display: flex; justify-content: space-around; align-items: center;">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Orchizakia00&theme=tokyonight)
 
 ![GitHub Streak](https://api.githubtrends.io/user/svg/Orchizakia00/repos?time_range=one_year&theme=synthwaves)
 </div>
+</div>
+
 
 ## Current Overview
 - 🔭 I’m currently looking for work
