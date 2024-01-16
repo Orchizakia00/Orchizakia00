@@ -15,7 +15,7 @@
 ## Top Used Technologies
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=js,tailwind,react,mongodb,express,firebase,html,css," />
+    <img src="https://skillicons.dev/icons?i=js,tailwind,react,mongodb,express,firebase,html,css,nodejs,figma,github,vscode," />
   </a>
 </p>
 
